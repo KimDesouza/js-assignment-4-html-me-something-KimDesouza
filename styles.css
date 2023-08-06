@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+body {
+    text-align: center;
+    margin: 8 px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color : green;
+}
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#resize {
+    width: 1000px;
+    height: 700px;
+  }
+
